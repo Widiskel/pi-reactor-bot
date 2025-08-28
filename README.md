@@ -33,9 +33,12 @@ The bot opens Chrome via **undetected-chromedriver** and persists **cookies/loca
 
 ## PI Reactor Is Live
 Pi2 Reactor is Live
+
 a fast-paced mini-game designed to stress-test the Pi Squared network.
 ➡https://portal.pi2.network/reactor
+
 ➖ Click on Play Reactor Mini-Game
+
 ➖ Start Tapping the ball with specific color which is shown.
 
 ---
