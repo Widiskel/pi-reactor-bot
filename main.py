@@ -97,7 +97,7 @@ def pop_logs(driver):
         s = str(line).lower()
         if "correct click!" in s:
             cnt += 1
-        if "backend session started" in s:
+        if "backend session started" or "ended" in s:
             session_reset = True
         if ("sending click data to backend" in s) or ('"iscorrect":' in s):
             m = re.search(r'(\{.*\})', line)
